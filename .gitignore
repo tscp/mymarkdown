@@ -1,7 +1,5 @@
 .DS_Store
 node_modules/
-dist/
-!dist/index.html
 npm-debug.log
 yarn-error.log
 .firebase
